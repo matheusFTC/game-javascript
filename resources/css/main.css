@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body {
+	background-color: #F9FAFF;
+}
+
+.container {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border-width: 5px;
+	border-color: #8E93A9;
+	border-style: solid;
+	border-radius: 15px;
+}
